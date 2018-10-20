@@ -1,8 +1,9 @@
 {
   "name": "benchlogga",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
