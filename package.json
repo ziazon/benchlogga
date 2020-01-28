@@ -39,5 +39,8 @@
     "test:watch": "jest --watch"
   },
   "author": "Jubair Saidi <jubair.saidi@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
