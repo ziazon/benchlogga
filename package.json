@@ -1,6 +1,6 @@
 {
   "name": "benchlogga",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Yet another nodejs logging package, built how I like it.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
