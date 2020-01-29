@@ -1,12 +1,12 @@
 {
-  "name": "benchlogga",
-  "version": "1.0.1",
+  "name": "@jubairsaidi/benchlogga",
+  "version": "1.0.2",
   "description": "Yet another nodejs logging package, built how I like it.",
   "main": "dist/benchlogga.js",
   "types": "dist/benchlogga.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jubairsaidi/benchlogga.git"
+    "url": "git://github.com/jubairsaidi/benchlogga.git"
   },
   "keywords": [],
   "bugs": {
