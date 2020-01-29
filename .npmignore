@@ -1,0 +1,11 @@
+src/
+coverage/
+.prettierrc
+.eslintrc.js
+jest.config.js
+.dependency-cruiser.json
+.vscode/
+import-sorter.json
+tsconfig.json
+test/
+.github/
