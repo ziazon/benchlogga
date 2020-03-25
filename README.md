@@ -2,6 +2,8 @@
 
 A nodejs logging and benchmarking package.
 
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=jubairsaidi/benchlogga)](https://dependabot.com)
+
 - [Benchlogga](#benchlogga)
   - [Installation](#installation)
   - [Usage](#usage)
