@@ -23,7 +23,7 @@
     "@types/eslint": "^6.1.7",
     "@types/eslint-plugin-prettier": "^3.1.0",
     "@types/jest": "^25.1.0",
-    "@types/node": "^13.5.0",
+    "@types/node": "^16.4.0",
     "@types/prettier": "^2.0.0",
     "@types/pretty-hrtime": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^2.18.0",
